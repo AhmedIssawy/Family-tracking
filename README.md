@@ -38,9 +38,9 @@ A simple Express.js application that tracks the countries visited by users. The 
    DB_PORT=
 
 })
-4.  ```
-     DROP TABLE IF EXISTS visited_countries, users;
-
+4.  Write these commands in PGADMIN query to create your own tables after making your DB and putting its name in DB_NAME in .env:
+     
+    DROP TABLE IF EXISTS visited_countries, users;
     CREATE TABLE users(
     id SERIAL PRIMARY KEY,
     name VARCHAR(15) UNIQUE NOT NULL,
