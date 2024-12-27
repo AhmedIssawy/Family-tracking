@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build output
+/dist
+/build
+
+# PostgreSQL files (if using local storage)
+*.sql
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# npm package lock
+package-lock.json
