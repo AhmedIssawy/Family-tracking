@@ -76,12 +76,6 @@ A simple Express.js application that tracks the countries visited by users. The 
 ```
 node index.js
 ```
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-css
-Copy code
-
 
   
    
