@@ -31,6 +31,7 @@ A simple Express.js application that tracks the countries visited by users. The 
    ```
 2. Make a postgres DB called "world" and paste this in the query
 3. Setup .env (make file called ".env" and write your postgres db information inside in this stracture {
+4. ```
    DB_USER=
    
    DB_HOST=localhost
@@ -40,6 +41,7 @@ A simple Express.js application that tracks the countries visited by users. The 
    DB_PASSWORD=
    
    DB_PORT=
+   ```
 
 })
 
