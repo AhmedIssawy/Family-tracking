@@ -30,7 +30,7 @@ A simple Express.js application that tracks the countries visited by users. The 
    npm i
    ```
 2. Make a postgres DB called "world" and paste this in the query
-3. Setup .env (make file called ".env" and write your postgres db information inside in this stracture {
+3. Setup .env (make file called ".env" and write your postgres db information inside in this stracture:
 4. ```
    DB_USER=
    
@@ -43,7 +43,6 @@ A simple Express.js application that tracks the countries visited by users. The 
    DB_PORT=
    ```
 
-})
 
 4.  Write these commands in PGADMIN query to create your own tables after making your DB and putting its name in DB_NAME in .env:
     ``` 
