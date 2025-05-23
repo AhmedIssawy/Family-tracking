@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/2915f8c9-ad42-421b-b598-95f576ae9c8d)
 
 A simple Express.js application that tracks the countries visited by users. The app stores user data and country information using PostgreSQL.
-  
+   
 ## Features 
 
 - Users can create profiles with custom colors.
