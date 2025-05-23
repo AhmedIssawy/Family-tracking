@@ -3,7 +3,7 @@
 
 A simple Express.js application that tracks the countries visited by users. The app stores user data and country information using PostgreSQL.
 
-## Features
+## Features 
 
 - Users can create profiles with custom colors.
 - Users can select a country and add it to their visited list.
